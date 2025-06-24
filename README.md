@@ -3,7 +3,7 @@ This project showcases a dynamic Power BI dashboard created for analyzing sales 
 
 ## 📁 Project Files
 - `blinkit_sales.pbix` – Full interactive report
-- [dataset from Kaggle](https://www.kaggle.com/datasets/arunkumaroraon/blinkit-grocery-dataset) 
+- Dataset from Kaggle [dataset](https://www.kaggle.com/datasets/arunkumaroraon/blinkit-grocery-dataset) 
 - `screenshots/` – Dashboard visuals
 - `demo/` – Walkthrough video
 
