@@ -1,5 +1,6 @@
-# blinkit_sales_dashboard
-This project showcases a dynamic Power BI dashboard created for analyzing sales performance across regions, products, and time periods.
+# Blinkit Sales Dashboard
+This project showcases a dynamic Power BI dashboard created for analyzing sales performance across various cities and outlets.
+It also shows different metrics, filtere on the amount of fat in the products, thus promoting healthy choices.
 
 ## 📁 Project Files
 - `blinkit_sales.pbix` – Full interactive report
