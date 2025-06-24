@@ -2,19 +2,14 @@
 This project showcases a dynamic Power BI dashboard created for analyzing sales performance across regions, products, and time periods.
 
 ## 📁 Project Files
-- `SalesDashboard.pbix` – Full interactive report
-- `data/` – Sample dataset (CSV format)
+- `blinkit_sales.pbix` – Full interactive report
+- [dataset from Kaggle](https://www.kaggle.com/datasets/arunkumaroraon/blinkit-grocery-dataset) 
 - `screenshots/` – Dashboard visuals
-- `demo/` – Walkthrough video (optional)
+- `demo/` – Walkthrough video
 
-## 📌 Key Features
-- Dynamic KPIs: Revenue, Profit Margin, and Sales Growth
-- Time-based filters and slicers
-- Region-wise sales heatmap
-- DAX for YoY and MoM analysis
 
 ## 🚀 How to View
-1. Download `SalesDashboard.pbix`
+1. Download - `blinkit_sales.pbix`
 2. Open using [Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/)
 
 ## 📸 Preview
